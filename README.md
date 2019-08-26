@@ -1,4 +1,4 @@
-# eslint-demo
+# vue-eslint-demo
 
 > A Vue.js project
 
